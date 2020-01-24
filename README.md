@@ -5,9 +5,9 @@ This is a small Drupal coding challenge that we normally ask all candidates to c
 Please develop a _custom_ Drupal module that will render a list of pages that were modified on a _current day_:
 * Please develop a _Block_ module
 * Ensure your module shows up in the Module Listing
-* Include a Drupal test case for your module
-* Use Drupal 7 or 8
+* Include a Drupal test case for your module i.e. Unit Tests.
+* Use Drupal 8 preferably.
 
-We do understand your time is valuable and therefore tried to keep the scope of this challenge to 1-2 hours. The goal is to see your approach to the problem and your coding style rather than delivering a specific set of features.
+We do understand your time is valuable and therefore tried to keep the scope of this challenge to 1-2 hours. The goal is to see your approach to the problem and your coding style rather than delivering a specific set of features. Note that you will be expected to do a short demo of the code and unit test via screenshare.
 
 Thank you for your interest in SemanticBits!
